@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "396809186885",
+    "project_id": "react1-986b3",
+    "storage_bucket": "react1-986b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396809186885:android:42547bfe81b34360b9bd2c",
+        "android_client_info": {
+          "package_name": "com.reactnative"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlUuZMTD2S_llAt2EU1VozDLPFWRgQ7j8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396809186885:android:c1b5aaca5b25b5b7b9bd2c",
+        "android_client_info": {
+          "package_name": "com.salesforce.marketingcloud.react"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlUuZMTD2S_llAt2EU1VozDLPFWRgQ7j8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
